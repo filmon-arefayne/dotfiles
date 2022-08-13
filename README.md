@@ -1,2 +1,2 @@
 # emacs-config
-personal
+personal emacs configuration
