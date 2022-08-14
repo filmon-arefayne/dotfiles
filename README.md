@@ -1,2 +1,2 @@
-# emacs-config
-personal emacs configuration
+# nix-config
+personal nixos config with emphasis on haskell and rust development using emacs
