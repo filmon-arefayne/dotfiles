@@ -24,5 +24,11 @@
     git
     tree
     alacritty
+    gcc
+    rustc
+    cargo
+    rustfmt
+    rust-analyzer
+    clippy
   ];
 }
